@@ -1,0 +1,5 @@
+category: PHP
+requires: php php-pear php-json php-tidy php-tokenizer php-xdebug php-Image_GraphViz php-Log
+sdesc: "PHP unit testing framework"
+ldesc: "An open source framework for test-driven development with the 
+PHP programming language."
