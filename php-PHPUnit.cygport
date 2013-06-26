@@ -1,0 +1,12 @@
+PHP_CHANNEL="pear.phpunit.de"
+inherit php
+
+NAME="php-PHPUnit"
+VERSION=3.7.21
+RELEASE=1
+CATEGORY="PHP"
+SUMMARY="PHP unit testing framework"
+DESCRIPTION="An open source framework for test-driven development with the
+PHP programming language."
+
+#REQUIRES="php-json php-tidy php-tokenizer php-xdebug php-Image_GraphViz php-Log"
